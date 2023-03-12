@@ -20,7 +20,7 @@
 
 # Comentário do Dev: 
 
-### O programa criado foi feito para ser base de estudos com Sistemas de Repetição e Bollean, pois são a base da programação, com isso o dono deste perfil está muito animado com os resultados de seus estudos, desejando-lhes um bom estudo do código ;)
+### O programa criado foi feito para ser base de estudos com Sistemas de Repetição e Bollean, pois são a base da programação, com isso o dono deste perfil está muito animado com os resultados de seus testes, desejando-lhes um bom estudo do código ;)
 
 # Observação:
 
