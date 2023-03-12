@@ -15,7 +15,7 @@
 ### Após isso, o usuário dará a entrada de dados correspondente a sua idade, com isso a informação será verificada da seguinte maneira:
 ### (idade < 18 anos) Acesso negado
 ### (idade == 0 anos) Valor invalido
-### (idade >= 18 anos) Acesso consedido
+### (idade >= 18 anos) Acesso concedido
 ### Dentre todas as variações acima, sempre se repetirá se o valor for falso, como dito acima, o programa só continuará até que o valor seja correspondido
 
 # Comentário do Dev: 
