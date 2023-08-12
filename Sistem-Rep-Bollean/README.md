@@ -13,7 +13,7 @@
  ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 
 <h2>
-  Como funciona ?
+  🤷‍♂️ Como funciona ?
 </h2>
 
 <p>
