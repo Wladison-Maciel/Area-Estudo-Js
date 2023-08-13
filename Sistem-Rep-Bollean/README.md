@@ -35,7 +35,7 @@ Após isso, o usuário dará a entrada de dados correspondente a sua idade, com 
 <p>
   (idade < 18 anos) Acesso negado
 </p>
-    (idade == 0 anos) Valor invalido
+  (idade == 0 anos) Valor invalido
 <p>
   (idade >= 18 anos) Acesso concedido
 </p>
