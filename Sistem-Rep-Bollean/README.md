@@ -21,11 +21,11 @@
 </p>
 
 <p>
-  Na variável 'nome', o programa irá verificar se o que foi digitado pelo usuário foi vazio("") ou se foi realmente uma String
+  Na variável 'nome', o programa irá verificar se o que foi digitado pelo usuário foi vazio(" ") ou se foi realmente uma String
 </p>
 
 <p>
-  Com isso, se o valor digitado pelo usuário for vazio(""), a pergunta se repetirá até que receba um valor valido
+  Com isso, se o valor digitado pelo usuário for vazio(" "), a pergunta se repetirá até que receba um valor valido
 </p>
 
 <p>
