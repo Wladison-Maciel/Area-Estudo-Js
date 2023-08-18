@@ -1,7 +1,11 @@
-# Sistema de Repetição + Bollean
+<h1>
+  Sistema de Repetição + Bollean
+</h1>
 
-## Neste repositório há um programa Js(JavaScript), na qual contém sistemas de repetição (While) e de comparação (if,else,else if)
 
+<h3>
+  Neste repositório há um programa Js(JavaScript), na qual contém sistemas de repetição (While) e de comparação (if,else,else if)
+</h3>
 
 # Ferramentas utilizadas:
 
