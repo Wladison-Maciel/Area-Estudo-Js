@@ -1,10 +1,17 @@
-<h1>
-  Em que foi baseado ?
-</h1>
+<h2>
+  Sistema de Repetição + Bollean
+</h2>
+<p>
+  Neste repositório há um programa Js(JavaScript), na qual contém sistemas de repetição (While) e de comparação (if,else,else if)
+</p>
 
- <h3>
+<h2>
+  Em que foi baseado ?
+</h2>
+
+ <p>
    O programa foi inspirado nos sites que contém login e senha
- </h3>
+ </p>
  <h3>
    Exemplo: Instagram Facebook
  </h3>
