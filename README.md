@@ -1,11 +1,13 @@
-<h1>
-  Sistema de Repetição + Bollean
-</h1>
+<h2>
+  Repositório criado para armazenar diversos códigos utilizando a linguagem JavaScript
+</h2>
+
+- [x] Sistemas de repetição (While)
+- [x] Sistemas de repetição (For)
+- [x] Sistemas de comparação (if, else, else if)
+- [x] Manipulação de listas (Push, pop, slice, join)
 
 
-<h3>
-  Neste repositório há um programa Js(JavaScript), na qual contém sistemas de repetição (While) e de comparação (if,else,else if)
-</h3>
 
 # Ferramentas utilizadas:
 
