@@ -1,3 +1,3 @@
 <h2>
-  Área destinada somente para códigos em JavaScript sobre manipulação de listas
+ Manipulação de lista, método Slice(), onde cria uma nova lista a partir de outra
 </h2>
