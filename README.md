@@ -1,9 +1,20 @@
-<h2>
-  Repositório criado para armazenar diversos códigos para estudo utilizando a linguagem JavaScript
+<h2 align = "center">
+  Seja Bem-Vindo(a) ao meu espaço de estudos sobre JavaScript 😁
 </h2>
 
-- [x] Sistemas de repetição (While)
-- [x] Sistemas de repetição (For)
+<div align = "center">
+
+![Stars](https://img.shields.io/github/stars/Wladison-Maciel/Area-Estudo-Js.svg)
+![Watchers](https://img.shields.io/github/watchers/Wladison-Maciel/Area-Estudo-Js.svg)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/Wladison-Maciel/Area-Estudo-Js/main)
+![Follows](https://img.shields.io/github/followers/Wladison-Maciel.svg?style=social&label=Follow&maxAge=2592000)
+</div>
+
+<h3>
+  Aqui estão alguns códigos que serão postados nesse espaço:
+</h3>
+
+- [x] Sistemas de repetição (While, For)
 - [x] Sistemas de comparação (if, else, else if)
 - [x] Manipulação de listas (Push, pop, slice, join)
 
