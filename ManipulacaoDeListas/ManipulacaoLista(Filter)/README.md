@@ -1,1 +1,1 @@
-## Manipulação de lista, Strings que começam com a letra "G"
+## Manipulação de lista, método filter() recolhe strings que começam com uma determinada letra, no caso foi a "G"
