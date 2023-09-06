@@ -1,3 +1,3 @@
 <h2>
-  Área destinada somente para códigos em JavaScript sobre manipulação de listas
+  O método push() adiciona um ou mais elementos ao final de um array e retorna o novo comprimento desse array.
 </h2>
