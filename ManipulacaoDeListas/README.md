@@ -1,5 +1,5 @@
 <h2>
-  Área destinada somente para códigos em JavaScript sobre manipulação de listas
+  Área destinada somente para códigos em JavaScript sobre métodos de manipulação de listas
 </h2>
 
 ```` JS
