@@ -4,4 +4,8 @@
 
 ```` JS
 const myArray = ['Hello','you','are',100]
+````
 
+<h2 align = "center">
+  Caso tenha alguma método que queira ver, entre em contato comigo que irei adicionar 😁
+</h2>
