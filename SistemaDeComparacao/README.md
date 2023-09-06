@@ -5,7 +5,7 @@
 ```` JS
 let idade = 16;
 
-if(idade < 18){
+if(idade <= 18){
  console.log("Acesso negado") 
 } else {
  console.log("Acesso concedido")
