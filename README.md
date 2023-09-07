@@ -14,9 +14,11 @@
   Aqui estão alguns códigos que serão postados nesse espaço:
 </h3>
 
-- [x] Sistemas de repetição (While, For)
-- [x] Sistemas de comparação (if, else, else if)
-- [x] Manipulação de listas (Push, pop, slice, join)
+- [x] Sistemas de repetição
+- [x] Sistemas de comparação
+- [x] Manipulação de listas
+- [x] Operadores Lógicos
+- [x] Operadores Relacionais
 
 <h2>
   Linguagem principal:
