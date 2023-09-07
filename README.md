@@ -35,28 +35,48 @@ console.log("Venha aprender o mundo da programação junto comigo");
 - [x] Operadores Lógicos
 - [x] Operadores Relacionais
 
-<h2>
-  Linguagem principal:
-</h2>
+## Linguagem principal:
 
 * ### JavaScript
 
+<p>
+  Com o foco somente nessa linguagem, é onde iremos começar nosso códigos para o seu aprendizado
+</p>
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-## Ferramentas Utilizadas:
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Biblioteca Utilizada:
 
 * ### Node.js
+
+<p>
+  O nosso interpretador e o que vai fazer o nosso programa rodar 
+</p>
+
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
+## IDE Utilizadas:
+
+* ### Visual Studio Code
+
+<p>
+  O nosso principal ambiente de desenvolvimento, é nele que extensões e instalações por fora irão ocorrer
+</p>
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## Ferramentas:
+
+* ### GitHub - Git
+
+<p>
+  Por fim, os Apps que foram utilizados para fazer tudo isso
+</p>
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 <div align = "end"> 
-  <img width="7%" height="70px" src="https://www.sketchappsources.com/resources/source-image/windows-logo-alesiamjau.png"/>
   <img width="7%" heigth="60px" src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png"/>
 </div>
 
