@@ -4,6 +4,13 @@
 
 <div align = "center">
 
+```` JS
+console.log("Venha aprender o mundo da programação junto comigo");
+````
+</div>
+
+<div align = "center">
+
 ![Stars](https://img.shields.io/github/stars/Wladison-Maciel/Area-Estudo-Js.svg)
 ![Watchers](https://img.shields.io/github/watchers/Wladison-Maciel/Area-Estudo-Js.svg)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/Wladison-Maciel/Area-Estudo-Js/main)
