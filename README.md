@@ -70,7 +70,7 @@ console.log("Venha aprender o mundo da programação junto comigo");
 * ### GitHub - Git
 
 <p>
-  Por fim, os Apps que foram utilizados para fazer tudo isso
+  Por fim, os Apps que foram utilizados para fazer todo este repositório
 </p>
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
