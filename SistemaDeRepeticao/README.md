@@ -9,3 +9,10 @@ while(resposta == "não"){
 console.log("A resposta é não")
 }
 ````
+
+```` JS
+for (let i = 1; i <= 5; i++) {
+  console.log(i);
+}
+````
+
