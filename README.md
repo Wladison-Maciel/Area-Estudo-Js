@@ -25,6 +25,20 @@ console.log("Venha aprender o mundo da programação junto comigo");
   Junto a mim, irei lhe apresentar códigos sobre fundamentos do JavaScript, como estudante e uma vontade insaciável de aprender mais e mais, quero apresentar o meu conhecimento nessa área para pessoas que não sabem sobre esse assunto
 </p>
 
+<h2>
+  Aviso ❕
+</h2>
+
+<p>
+  Alguns dos códigos acima contém entrada de dados utilizando do Prompt-Sync, caso tenha interesse em entender como funciona, já que no Visual Studio Code não é possível ter entrada de dados dessa maneira somente pelo terminal, lhe ensino a como fazer isso no repositório abaixo 👇:
+</p>
+
+<h4 align = "center">
+  https://github.com/Wladison-Maciel/Prompt-Sync
+</h4>
+
+
+
 <h3>
   Aqui estão alguns códigos que serão postados nesse espaço:
 </h3>
