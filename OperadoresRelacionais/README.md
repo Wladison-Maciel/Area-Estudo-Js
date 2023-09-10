@@ -1,4 +1,4 @@
-## Área destinada para códigos sobre operadores relacionais (>=, ==, <=, !=)
+## Área destinada para códigos sobre operadores relacionais (>, <, >=, ==, <=, !=)
 
 * Maior que ( > )
 * Menor que ( < )
