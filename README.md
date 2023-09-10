@@ -34,6 +34,7 @@ console.log("Venha aprender o mundo da programação junto comigo");
 - [x] Manipulação de listas
 - [x] Operadores Lógicos
 - [x] Operadores Relacionais
+- [X] Todos os Sistemas em um só Código
 
 ## Linguagem principal:
 
