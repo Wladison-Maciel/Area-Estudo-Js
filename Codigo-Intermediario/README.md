@@ -1,5 +1,5 @@
 <h3>
-  Aqui será o local onde criarei um código mais intermédiario juntando alguns dos assuntos que estudamos neste repostiório
+  Aqui será o local onde criarei um código intermédiario juntando alguns dos assuntos que estudamos neste repostiório
 </h3>
 
 * [X] Sistema de Comparação
