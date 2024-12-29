@@ -101,5 +101,5 @@ console.log("Venha aprender o mundo da programação junto comigo");
 </h2>
 
 <p align = "center">
-  Este repositório foi criado com o intuito de ajudar pessoas que procuram códigos sobre determinado assunto e para o estudo do próprio dono deste perfil, vale ressaltar que estes mesmos códigos foram feitos a mão, caso queira usar de exemplos pastas ou qualquer conteúdo, peço somente para que deixe os créditos a mim para me ajudar, desde já agradeço!
+  Este repositório foi criado com o intuito de ajudar pessoas que procuram códigos sobre determinado assunto e para o estudo do próprio dono deste perfil, obrigado por visitar este repositório!
 </p>
